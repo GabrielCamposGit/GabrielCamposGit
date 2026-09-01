@@ -1,6 +1,6 @@
 # 🧑‍💻 GabrielCamposGit
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Gabriel Ribeiro de Araújo Campos, tenho 19 anos e nasci em Belém do Pará mas moro a bastante tempo em Campinas SP. Concluí o ensino médio em escola pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. Gosto muito de tecnologia e sempre estou praticando, também pratico por conta com os diversos especialista que gostam de ensinar em sites próprios ou no YouTube, todo dia e dia de aprender mais.
 
