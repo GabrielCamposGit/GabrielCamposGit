@@ -7,14 +7,14 @@ Me chamo Gabriel Ribeiro de Araújo Campos, tenho 19 anos e nasci em Belém do P
 <p 
         />
     </a> 
-    <a href="https://github.com/GabrielCampos?tab=repositories&sort=stargazers">
+    <a href="https://github.com/GabrielCamposGit?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/GabrielCampos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/GabrielCampos?tab=followers">
+    <a href="https://github.com/GabrielCamposGit?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
